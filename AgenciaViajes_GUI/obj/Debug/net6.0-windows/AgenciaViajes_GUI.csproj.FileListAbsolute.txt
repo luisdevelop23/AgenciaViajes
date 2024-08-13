@@ -1,0 +1,168 @@
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_GUI.exe
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_GUI.dll.config
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_GUI.deps.json
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_GUI.runtimeconfig.json
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_GUI.dll
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_GUI.pdb
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_ADO.dll
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_BE.dll
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_BL.dll
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_BE.pdb
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_BL.pdb
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_ADO.pdb
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.csproj.AssemblyReference.cache
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.Form1.resources
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.csproj.GenerateResource.cache
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.AssemblyInfoInputs.cache
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.AssemblyInfo.cs
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.csproj.CoreCompileInputs.cache
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.csproj.CopyComplete
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.dll
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\refint\AgenciaViajes_GUI.dll
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.pdb
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.genruntimeconfig.cache
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\ref\AgenciaViajes_GUI.dll
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.frmLogin.resources
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.MDIPrincipal.resources
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.Properties.Resources.resources
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.ClienteMan01.resources
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.ClienteMan02.resources
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.ClienteMan03.resources
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.ActividadMan01.resources
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.ActividadMan02.resources
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.ActividadMan03.resources
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.EmpleadoMan01.resources
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.EmpleadoMan02.resources
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.EmpleadoMan03.resources
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.HotelMan01.resources
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.HotelMan02.resources
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.HotelMan03.resources
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_GUI.exe
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_GUI.dll.config
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_GUI.deps.json
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_GUI.runtimeconfig.json
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_GUI.dll
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_GUI.pdb
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_ADO.dll
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_BE.dll
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_BL.dll
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_BE.pdb
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_BL.pdb
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_ADO.pdb
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.csproj.AssemblyReference.cache
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.ActividadMan01.resources
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.ActividadMan02.resources
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.ActividadMan03.resources
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.ClienteMan01.resources
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.ClienteMan02.resources
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.ClienteMan03.resources
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.EmpleadoMan01.resources
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.EmpleadoMan02.resources
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.EmpleadoMan03.resources
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.Form1.resources
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.frmLogin.resources
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.HotelMan01.resources
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.HotelMan02.resources
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.HotelMan03.resources
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.MDIPrincipal.resources
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.Properties.Resources.resources
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.csproj.GenerateResource.cache
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.AssemblyInfoInputs.cache
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.AssemblyInfo.cs
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.csproj.CoreCompileInputs.cache
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.csproj.CopyComplete
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.dll
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\refint\AgenciaViajes_GUI.dll
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.pdb
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.genruntimeconfig.cache
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\ref\AgenciaViajes_GUI.dll
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_GUI.exe
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_GUI.dll.config
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_GUI.deps.json
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_GUI.runtimeconfig.json
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_GUI.dll
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_GUI.pdb
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_ADO.dll
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_BE.dll
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_BL.dll
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_BE.pdb
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_BL.pdb
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\bin\Debug\net6.0-windows\AgenciaViajes_ADO.pdb
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.csproj.AssemblyReference.cache
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.ActividadMan01.resources
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.ActividadMan02.resources
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.ActividadMan03.resources
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.ClienteMan01.resources
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.ClienteMan02.resources
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.ClienteMan03.resources
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.EmpleadoMan01.resources
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.EmpleadoMan02.resources
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.EmpleadoMan03.resources
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.Form1.resources
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.frmLogin.resources
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.HotelMan01.resources
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.HotelMan02.resources
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.HotelMan03.resources
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.MDIPrincipal.resources
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.Properties.Resources.resources
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.csproj.GenerateResource.cache
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.AssemblyInfoInputs.cache
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.AssemblyInfo.cs
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.csproj.CoreCompileInputs.cache
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.csproj.CopyComplete
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.dll
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\refint\AgenciaViajes_GUI.dll
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.pdb
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\AgenciaViajes_GUI.genruntimeconfig.cache
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_GUI\obj\Debug\net6.0-windows\ref\AgenciaViajes_GUI.dll

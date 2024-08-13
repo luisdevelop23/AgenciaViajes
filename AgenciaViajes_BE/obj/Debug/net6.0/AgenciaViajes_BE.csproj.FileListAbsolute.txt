@@ -1,0 +1,36 @@
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_BE\bin\Debug\net6.0\AgenciaViajes_BE.deps.json
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_BE\bin\Debug\net6.0\AgenciaViajes_BE.dll
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_BE\bin\Debug\net6.0\AgenciaViajes_BE.pdb
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_BE\obj\Debug\net6.0\AgenciaViajes_BE.csproj.AssemblyReference.cache
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_BE\obj\Debug\net6.0\AgenciaViajes_BE.GeneratedMSBuildEditorConfig.editorconfig
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_BE\obj\Debug\net6.0\AgenciaViajes_BE.AssemblyInfoInputs.cache
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_BE\obj\Debug\net6.0\AgenciaViajes_BE.AssemblyInfo.cs
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_BE\obj\Debug\net6.0\AgenciaViajes_BE.csproj.CoreCompileInputs.cache
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_BE\obj\Debug\net6.0\AgenciaViajes_BE.dll
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_BE\obj\Debug\net6.0\refint\AgenciaViajes_BE.dll
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_BE\obj\Debug\net6.0\AgenciaViajes_BE.pdb
+C:\ISIL\Ciclo 2023-1\desarrolloApps1\Examen Parcial\AgenciaViajes\AgenciaViajes_BE\obj\Debug\net6.0\ref\AgenciaViajes_BE.dll
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_BE\bin\Debug\net6.0\AgenciaViajes_BE.deps.json
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_BE\bin\Debug\net6.0\AgenciaViajes_BE.dll
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_BE\bin\Debug\net6.0\AgenciaViajes_BE.pdb
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_BE\obj\Debug\net6.0\AgenciaViajes_BE.csproj.AssemblyReference.cache
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_BE\obj\Debug\net6.0\AgenciaViajes_BE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_BE\obj\Debug\net6.0\AgenciaViajes_BE.AssemblyInfoInputs.cache
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_BE\obj\Debug\net6.0\AgenciaViajes_BE.AssemblyInfo.cs
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_BE\obj\Debug\net6.0\AgenciaViajes_BE.csproj.CoreCompileInputs.cache
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_BE\obj\Debug\net6.0\AgenciaViajes_BE.dll
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_BE\obj\Debug\net6.0\refint\AgenciaViajes_BE.dll
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_BE\obj\Debug\net6.0\AgenciaViajes_BE.pdb
+C:\Users\luiss\Desktop\NET\pruebafinal\AgenciaViajes\AgenciaViajes_BE\obj\Debug\net6.0\ref\AgenciaViajes_BE.dll
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_BE\bin\Debug\net6.0\AgenciaViajes_BE.deps.json
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_BE\bin\Debug\net6.0\AgenciaViajes_BE.dll
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_BE\bin\Debug\net6.0\AgenciaViajes_BE.pdb
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_BE\obj\Debug\net6.0\AgenciaViajes_BE.csproj.AssemblyReference.cache
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_BE\obj\Debug\net6.0\AgenciaViajes_BE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_BE\obj\Debug\net6.0\AgenciaViajes_BE.AssemblyInfoInputs.cache
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_BE\obj\Debug\net6.0\AgenciaViajes_BE.AssemblyInfo.cs
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_BE\obj\Debug\net6.0\AgenciaViajes_BE.csproj.CoreCompileInputs.cache
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_BE\obj\Debug\net6.0\AgenciaViajes_BE.dll
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_BE\obj\Debug\net6.0\refint\AgenciaViajes_BE.dll
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_BE\obj\Debug\net6.0\AgenciaViajes_BE.pdb
+C:\Users\luiss\Desktop\NET\2023\pruebafinal\AgenciaViajes\AgenciaViajes_BE\obj\Debug\net6.0\ref\AgenciaViajes_BE.dll
